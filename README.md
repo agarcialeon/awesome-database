@@ -395,7 +395,7 @@ Take table from [here](https://es.wikipedia.org/wiki/SQL)
 
 ### :nut_and_bolt: Utilities <a name="utilities"></a>
 
-* [sqlaxe](https://github.com/djberub/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files. Supports 40+ dialects of SQL.
+* [sqlaxe](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files. Supports 40+ dialects of SQL.
 
 ### :wrench: Tools <a name="tools"></a>
 
