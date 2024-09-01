@@ -411,6 +411,7 @@ Take table from [here](https://es.wikipedia.org/wiki/SQL)
 * [Awesome DB Tools](https://github.com/mgramin/awesome-db-tools) - a community driven list of database tools (ide, cli, managing, monitoring, migrations, modelers, visualization etc)
 * [10 Database tools for sys admins](https://techtalk.gfi.com/top-10-free-database-tools-for-sys-admins/)
 * [Wikipedia Database Tools Comparison](https://en.wikipedia.org/wiki/Comparison_of_database_tools)
+* [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Object/Cache data explorer with ai-powered chat and other cool features
 
 ## Formatters <a name="formatters"></a>
 
