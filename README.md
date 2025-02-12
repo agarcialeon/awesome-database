@@ -309,7 +309,8 @@ See [list](http://nosql-database.org/) of databases.
 * [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs. (#JAVA) (#DOCUMENT-STORE)
 * [ArangoDB](https://github.com/triAGENS/ArangoDB) - ArangoDB is a multi-purpose, open-source database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript/Ruby extensions. Use ACID transaction if you require them. Scale horizontally and vertically with a few mouse clicks.
 * [ArcadeDB](https://github.com/ArcadeData/arcadedb) - ArcadeDB is a Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. (#JAVA)
-
+* [FalkorDB](https://github.com/falkordb/falkordb) - A low-latency, and scalable graph database optimized for real-time analytics and AI-driven applications (#C/Rust)
+  
 #### Others
 
 * [Memstate](https://github.com/devrexlabs/memstate) - Previously named OrigoDB. An in-memory embedded database engine for NET/Mono.  See [more](https://origodb.com/). (#.NET)
