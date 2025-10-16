@@ -257,7 +257,8 @@ See [list](http://nosql-database.org/) of databases.
 * [Redis NDS](https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (the Naive Disk Store). (#C/C++)
 * [SSDB](https://github.com/ideawu/ssdb) - A fast NoSQL database, an alternative to Redis. [Website](http://ssdb.io). (#C/C++)
 * [LedisDB](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB. (#GO-LANG)
- 
+* [Zentropy](https://github.com/mailmug/zentropy) - A high-performance, lightweight key-value store server - Redis alternative (zig)
+
 #### Tuple Store <a name="tuple-store"></a>
 
 * Apache River  
