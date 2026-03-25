@@ -408,6 +408,7 @@ Take table from [here](https://es.wikipedia.org/wiki/SQL)
 * [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
 * [Flyway](https://flywaydb.org/) - Database migration tool.
 * [Liquibase](http://www.liquibase.org/) - Source Control for your database.
+* [AI for Database](https://aifordatabase.com/) - AI-powered tool to query any database in plain English. No SQL needed — get insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. :free:
 * [Awesome DB Tools](https://github.com/mgramin/awesome-db-tools) - a community driven list of database tools (ide, cli, managing, monitoring, migrations, modelers, visualization etc)
 * [10 Database tools for sys admins](https://techtalk.gfi.com/top-10-free-database-tools-for-sys-admins/)
 * [Wikipedia Database Tools Comparison](https://en.wikipedia.org/wiki/Comparison_of_database_tools)
