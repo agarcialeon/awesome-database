@@ -400,7 +400,7 @@ Take table from [here](https://es.wikipedia.org/wiki/SQL)
 :construction:
 
 ### :wrench: Tools <a name="tools"></a>
-
+* [StackRender](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator supporting PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, and Oracle.
 * [PixQL](https://github.com/Phildo/pixQL) - Command-line image processing tool in SQL.
 * [SQL Fiddle](http://sqlfiddle.com/) - Easly test and share database problems and their solutions. Can use different backend DBMS's (MySQL, PostgreSQL, MS SQL Server, Oracle, and SQLite).
 * [SqlPad](http://rickbergfalk.github.io/sqlpad/) - A web app for running SQL queries and visualizing the results.
