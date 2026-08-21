@@ -139,6 +139,7 @@ Search [more](https://dbdb.io/) databases.
 * [SQL Server Express Edition](http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx) - Free SQL Server Database to develop and deploy applications.
 * [SQL Server Data Tools](http://msdn.microsoft.com/en-us/data/tools.aspx) - Integrated environment for developers to design and build database and other business intelligence solutions for MS SQL Server stack.
 * [tSQLt](http://tsqlt.org/) - Unit testing framework for SQL Server.
+* [Red9 SQL Server Health Check](https://red9.com/sql-server-health-check/) - Free 145-point health check that flags performance, security, and configuration issues.
 
 ##### Monitoring
 
