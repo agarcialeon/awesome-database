@@ -324,6 +324,7 @@ See [list](http://nosql-database.org/) of databases.
 
 * [Derby](https://db.apache.org/derby/) - Open source relational database implemented entirely in Java.
 * [H2](https://github.com/h2database/h2database) - An embeddable RDBMS written in Java.
+* [Leaves](https://github.com/kochelmonster/leaves) - A high-performance, header-only C++20 embedded key-value database with ACID transactions, copy-on-write snapshots, lock-free readers, multi-writer support, and deterministic replication.
 * [PalDB](https://github.com/linkedin/PalDB) - Embeddable write-once key-value store written in Java.
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage. [Website](http://rocksdb.org). (#C/C++)
 * [MapDB](https://github.com/jankotek/mapdb/) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine. [Website](http://www.mapdb.org). (#JAVA)
