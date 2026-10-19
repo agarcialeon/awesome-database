@@ -404,6 +404,7 @@ Take table from [here](https://es.wikipedia.org/wiki/SQL)
 * [PixQL](https://github.com/Phildo/pixQL) - Command-line image processing tool in SQL.
 * [SQL Fiddle](http://sqlfiddle.com/) - Easly test and share database problems and their solutions. Can use different backend DBMS's (MySQL, PostgreSQL, MS SQL Server, Oracle, and SQLite).
 * [SqlPad](http://rickbergfalk.github.io/sqlpad/) - A web app for running SQL queries and visualizing the results.
+* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database manager for MySQL, PostgreSQL, SQLite, SQL Server and more. Free, open source Community edition.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 * [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
 * [Flyway](https://flywaydb.org/) - Database migration tool.
